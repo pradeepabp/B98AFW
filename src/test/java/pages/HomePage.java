@@ -18,7 +18,7 @@ public class HomePage {
 		PageFactory.initElements(driver,this);
 	}
 	
-	public boolean verifyHomePageIsDispalyed(WebDriverWait wait)
+	public boolean verifyHomePageIsDisplayed(WebDriverWait wait)
 	{
 		try 
 		{
